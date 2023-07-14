@@ -1,0 +1,42 @@
+body {
+    background-color: lightgrey;
+}
+
+header {
+    background-color: white;
+    margin: 0px;
+    padding: 0px;
+}
+
+header h1 {
+    width: 500px;
+    margin: auto;
+    background-color: white;
+    padding: 0px;
+}
+.sec {
+    background-color: white;
+    width: 500px;
+    margin: auto;
+    margin-top: 40px;
+}
+
+img {
+    width: 500px;
+}
+
+.d1 {
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 15px;
+}
+
+.d3 {
+    padding: 10px 10px 10px 10px;
+    margin: 0px;
+}
+
+.d3 p {
+    padding: 0px;
+    margin: 0px;
+}
